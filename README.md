@@ -1,5 +1,7 @@
 # ChatApp
 
+This application uses Channels to allow two users to communicate asynchronously.
+
 I'll change this later 
 <img width="1510" alt="Screen Shot 2022-10-09 at 2 49 58 PM" src="https://user-images.githubusercontent.com/29695936/194781054-98d6f280-1654-4eaa-9afb-33956fcdbd0b.png">
 
